@@ -3,7 +3,7 @@ import face_recognition as fr
 
 # Cargamos las imagenes
 control_picture = fr.load_image_file("imgs/Keanu_Reeves_3.jpg")
-test_picture = fr.load_image_file("imgs/Keanu_Reeves_2.jpg")
+test_picture = fr.load_image_file("imgs/Keanu_Reeves_1.webp")
 
 SCALE = 0.5
 
